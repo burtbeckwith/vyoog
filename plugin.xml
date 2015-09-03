@@ -1,0 +1,13 @@
+<plugin name='vyoogmail' version='0.3' grailsVersion='2.3 &gt; *'>
+  <author>Your name</author>
+  <title>Vyoogmail Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/vyoogmail</documentation>
+  <type>VyoogmailGrailsPlugin</type>
+  <resources>
+    <resource>vyoogmail.MailController</resource>
+    <resource>vyoogmail.Mail</resource>
+    <resource>vyoogmail.VyoogMailService</resource>
+  </resources>
+</plugin>
