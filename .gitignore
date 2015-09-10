@@ -1,0 +1,12 @@
+.DS_Store
+/*.iml
+/*.iws
+/.idea
+/.settings
+*.log
+/grails-vyoogmail-*.zip
+/grails-vyoogmail-*.zip.sha1
+/plugin.xml
+/target
+/target-eclipse
+/web-app/WEB-INF
